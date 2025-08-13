@@ -1,0 +1,2 @@
+# Crime-Classification-and-Pattern-Detection-in-Chicago-Using-Machine-Learning-Models
+This project used supervised ML (Logistic Regression, SVM, MLP, Decision Trees, Random Forest, KNN) to classify Chicago crimes and unsupervised ML (K-Means, DBSCAN) to find patterns. Using PCA for dimensionality reduction, MLP achieved the best accuracy, while DBSCAN excelled at identifying crime hotspots for law enforcement insights
